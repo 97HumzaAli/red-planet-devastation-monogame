@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/2ndBackground.png</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/explode.wav</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/explosion.png</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/font.spritefont</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/gameFont.spritefont</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/mainbackground.png</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/redplanet.png</File>
+    <File>D:/Conestoga IT/Semester3/PROG2370/Assignment4_HumzaAli/ShipApplication/Content/Ship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
